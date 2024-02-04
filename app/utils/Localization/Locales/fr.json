@@ -1,0 +1,5 @@
+{
+  "news": {
+      "title": "Les actualités du %{date}"
+  }
+}
